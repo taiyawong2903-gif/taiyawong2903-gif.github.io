@@ -50,7 +50,7 @@ h1{
 <h1>🔥 นราธิป Mini Shop</h1>
 <p>รวมลิงก์สั่งซื้อของผม</p>
 
-<a class="button shopee" href="ใส่ลิงก์Shopeeตรงนี้" target="_blank">
+<a class="button shopee" href=https://collshp.com/x2v4j?view=storefronttarget="_blank">
 🛒 ไปที่ Shopee
 </a>
 
